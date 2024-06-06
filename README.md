@@ -8,3 +8,5 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 `script_solution1.py`: script com a solução do problema. 
 ## gravando mudanças no repositório
 ## Salvando modificações no Git
+
+* comando git push
